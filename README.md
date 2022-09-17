@@ -13,10 +13,11 @@ Extracted info includes:
 - Expiration date
 - Personal number
 
-**Note:**
-  Personal numbers aren't used in all country.
+**Note:  Personal numbers aren't used in all country.**
+
+
 ---
-Example: <br>
+### Examples
 
 |**Image** | **Data** |
 |--- | ----- |
