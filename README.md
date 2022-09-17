@@ -1,4 +1,4 @@
-# Passport Optical Character Recognition
+# Passport OCR (Optical Character Recognition)
 Extract user data from a passport image.
 
 Extracted info includes:
