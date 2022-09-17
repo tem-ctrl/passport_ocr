@@ -16,4 +16,9 @@ Extracted info includes:
 **Note:**
   Personal numbers aren't used in all country.
 ---
-Example:
+Example: <br>
+
+|**Image** | **Data** |
+| ---|-----|
+|![image]() |   |
+|![image]() |   |
